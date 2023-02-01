@@ -1,0 +1,19 @@
+
+ƒ
+java:S1450"aRemove the "bookAuthorTextView" field and declare it as a local variable in the relevant methods.(à•’şıÿÿÿÿ8Ç’İŞ0
+u
+java:S1450"XRemove the "bookCover" field and declare it as a local variable in the relevant methods.(Øƒòş8È’İŞ0
+
+java:S1450"kRemove the "bookFirstPublishYearTextView" field and declare it as a local variable in the relevant methods.(Ñ†êûÿÿÿÿ8È’İŞ0
+†
+java:S1450"dRemove the "bookLanguagesTextView" field and declare it as a local variable in the relevant methods.(×œŠ¥ùÿÿÿÿ8È’İŞ0
+
+java:S1450"bRemove the "bookPersonsTextView" field and declare it as a local variable in the relevant methods.(àü½ö8È’İŞ0
+}
+java:S1450"`Remove the "bookTimesTextView" field and declare it as a local variable in the relevant methods.(«ÎÄ¥8É’İŞ0
+}
+java:S1450"`Remove the "bookTitleTextView" field and declare it as a local variable in the relevant methods.(Ò„µê8É’İŞ0
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(í€ ³8â’İŞ0
+^
+java:S1874)"<Remove this use of "getSerializableExtra"; it is deprecated.(Îˆ…‹ıÿÿÿÿ8è’İŞ0

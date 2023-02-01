@@ -1,0 +1,25 @@
+
+W
+java:S2259b"BA "NullPointerException" could be thrown; "data" is nullable here.(ø¥÷U
+]
+java:S2259\"BA "NullPointerException" could be thrown; "data" is nullable here.(”‘ôÕøÿÿÿÿ
+P
+java:S18741":Remove this use of "ViewModelProviders"; it is deprecated.(Ÿ€Ò
+@
+java:S18741"*Remove this use of "of"; it is deprecated.(Ÿ€Ò
+Y
+java:S18747">Remove this use of "startActivityForResult"; it is deprecated.(ëÖƒ øÿÿÿÿ
+T
+java:S1874=">Remove this use of "startActivityForResult"; it is deprecated.(øï§ó
+_
+java:S1874X"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(¹Î¾
+}
+java:S3252`"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+}
+java:S3252g"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(½ÑÕ²
+‚
+java:S3252l"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+ƒ
+java:S3252‚"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(Œ¦ˆüÿÿÿÿ
+U
+java:S1874‹">Remove this use of "startActivityForResult"; it is deprecated.(Ìêò‹

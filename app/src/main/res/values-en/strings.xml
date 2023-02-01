@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grzeszcz_Mobilki</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hint_book_title">Title…</string>
+    <string name="hint_book_author">Author…</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Not saved because there are empty fields</string>
+    <string name="book_added">Successfully saved</string>
+    <string name="book_edited">Successfully edited</string>
+    <string name="book_deleted">Successfully deleted</string>
+    <string name="todo">To Read</string>
+
+    <!--    Book api-->
+    <string name="switcher">Switch</string>
+
+    <string name="img_alt">Book Cover</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="fail_message">Something went wrong</string>
+</resources>

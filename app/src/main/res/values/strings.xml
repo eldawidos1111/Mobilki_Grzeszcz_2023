@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Grzeszcz_Mobilki</string>
+    <string name="action_settings">Ustawienia</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Pierwszy Fragment</string>
+    <string name="second_fragment_label">Drugi Fragment</string>
+    <string name="next">Następny</string>
+    <string name="previous">Poprzedni</string>
+
+    <string name="hint_book_title">Tytuł…</string>
+    <string name="hint_book_author">Autor…</string>
+    <string name="button_save">Zapisz</string>
+    <string name="empty_not_saved">Nie zapisano z powodu pustych pól</string>
+    <string name="book_added">Zapisano pomyślnie</string>
+    <string name="book_edited">Zedytowano pomyślnie</string>
+    <string name="book_deleted">Usunięto pomyślnie</string>
+    <string name="todo">Do Przeczytania</string>
+
+    <!--    Book api-->
+    <string name="switcher">Zmiana</string>
+
+    <string name="img_alt">Okładka książkir</string>
+    <string name="search">Wyszukaj</string>
+    <string name="clear_search">Wyczyść</string>
+    <string name="fail_message">Coś poszło nie tak</string>
+</resources>
